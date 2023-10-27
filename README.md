@@ -1,7 +1,6 @@
 - 👋 Hi, My name is Alexander
 - 👀 I’m interested in Backend programming 
 - 🌱 I’m currently learning Python
-
 - 📫 How to reach me i@malexzakharov.ru
 
 <!---
